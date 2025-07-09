@@ -1,0 +1,114 @@
+{
+  "users": [
+    {
+      "id": "3dc1",
+      "name": "Tony Stark",
+      "contact": "1234567890",
+      "address": "dhn-01,kailali,nepal",
+      "email": "yubi@gmail.com",
+      "password": "password1234#",
+      "role": "admin",
+      "createdAt": "2025-07-04T18:46:55.225Z"
+    },
+    {
+      "name": "Kasper Franklin",
+      "contact": "9865641818",
+      "address": "pookie panda!!",
+      "email": "kygew@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "role": "user",
+      "createdAt": "2025-07-04T18:53:47.846Z",
+      "id": "19ee"
+    },
+    {
+      "id": "ba87",
+      "name": "Rebecca Swanson",
+      "contact": "+1 (196) 919-6032",
+      "address": "Odit dicta quis odit",
+      "email": "bigucitugy@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "role": "user",
+      "createdAt": "2025-07-04T18:53:53.490Z"
+    },
+    {
+      "id": "3117",
+      "name": "Tamekah Ayala",
+      "contact": "+1 (917) 872-6574",
+      "address": "Enim in ipsum ad vel",
+      "email": "xeje@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "role": "user",
+      "createdAt": "2025-07-04T18:53:59.517Z"
+    },
+    {
+      "id": "0182",
+      "name": "Colette Schwartz",
+      "contact": "+1 (225) 303-7965",
+      "address": "Et cupidatat ipsam c",
+      "email": "tevop@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "role": "user",
+      "createdAt": "2025-07-04T18:54:04.673Z"
+    },
+    {
+      "id": "f6d4",
+      "name": "Sierra Guthrie",
+      "contact": "+1 (389) 854-9753",
+      "address": "Rem mollitia nostrum",
+      "email": "vezezina@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "role": "user",
+      "createdAt": "2025-07-04T18:54:09.839Z"
+    },
+    {
+      "id": "da99",
+      "name": "Melodie Monroe",
+      "contact": "+1 (176) 667-6744",
+      "address": "Dolorem accusamus at",
+      "email": "zohuxujaxi@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "role": "user",
+      "createdAt": "2025-07-04T18:54:17.117Z"
+    },
+    {
+      "id": "0bc3",
+      "name": "Zeph Warren",
+      "contact": "+1 (885) 637-4335",
+      "address": "Officiis in perferen",
+      "email": "tyki@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "role": "user",
+      "createdAt": "2025-07-04T18:54:22.009Z"
+    },
+    {
+      "id": "7906",
+      "name": "Cherokee Randall",
+      "contact": "+1 (639) 663-7673",
+      "address": "Cupidatat et omnis l",
+      "email": "xyxug@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "role": "user",
+      "createdAt": "2025-07-04T18:54:26.833Z"
+    },
+    {
+      "id": "2af2",
+      "name": "Ila Gordon",
+      "contact": "+1 (391) 544-8594",
+      "address": "Et reiciendis accusa",
+      "email": "zydovo@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "role": "user",
+      "createdAt": "2025-07-04T18:54:34.102Z"
+    },
+    {
+      "id": "5684",
+      "name": "Reese Grimes",
+      "contact": "+1 (379) 286-7951",
+      "address": "Ex sapiente soluta a",
+      "email": "xixuwajyzy@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "role": "user",
+      "createdAt": "2025-07-04T18:54:38.281Z"
+    }
+  ]
+}
